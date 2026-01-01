@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MODELISTAR | Professional Realtor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="MODELISTAR – Trusted Realtor helping clients buy, sell, and invest in properties.">
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f6f8;
+      color: #333;
+    }
+    header {
+      background: #0b3d91;
+      color: white;
+      padding: 30px;
+      text-align: center;
+    }
+    section {
+      padding: 30px;
+      max-width: 1000px;
+      margin: auto;
+    }
+    h2 {
+      color: #0b3d91;
+    }
+    .services, .contact {
+      background: white;
+      padding: 25px;
+      margin-top: 20px;
+      border-radius: 8px;
+    }
+    .btn {
+      display: inline-block;
+      padding: 12px 20px;
+      background: #0b3d91;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+    footer {
+      background: #222;
+      color: white;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>MODELISTAR</h1>
+  <p>Professional Realtor | Property Consultant | Trusted Advisor</p>
+</header>
+
+<section>
+  <h2>About Me</h2>
+  <p>
+    I am MODELISTAR, a dedicated and result-driven realtor helping individuals, families,
+    and investors buy, sell, and secure profitable properties with peace of mind.
+  </p>
+
+  <div class="services">
+    <h2>My Services</h2>
+    <ul>
+      <li>Buying & Selling of Properties</li>
+      <li>Land & House Documentation</li>
+      <li>Property Investment Advisory</li>
+      <li>Property Inspection & Verification</li>
+    </ul>
+  </div>
+
+  <div class="contact">
+    <h2>Contact Me</h2>
+    <p><strong>Phone:</strong> +234XXXXXXXXXX</p>
+    <p><strong>WhatsApp:</strong> +234XXXXXXXXXX</p>
+    <p><strong>Email:</strong> yourname@email.com</p>
+    <a class="btn" href="https://wa.me/234XXXXXXXXXX">Chat on WhatsApp</a>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 MODELISTAR | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
